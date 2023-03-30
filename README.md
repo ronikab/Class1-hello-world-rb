@@ -11,3 +11,5 @@
 This is an example of a GitHub repository.
 My name is Ronika.
 
+1st stage the file
+2 - add message
